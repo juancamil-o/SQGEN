@@ -1,0 +1,22 @@
+{
+  "name": "node-api",
+  "version": "1.0.0",
+  "description": "Technical test for STgenetics",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "keywords": [
+    "node.js"
+  ],
+  "author": "Juan Camilo Pimienta Gomez",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1",
+    "mysql2": "^3.11.3"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
